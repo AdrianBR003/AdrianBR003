@@ -15,7 +15,7 @@
 <h2>Languages and technologies</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,express,github,html,java,js,linux,windows,mongodb,mysql,nextjs,nodejs,postman,py,react,godot,c,raspberrypi,arduino,kotlin,astro,docker,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,express,github,html,java,js,linux,windows,mongodb,mysql,nextjs,nodejs,postman,py,react,godot,c,raspberrypi,arduino,kotlin,docker,&perline=14" />
   </a>
 </p>
 &nbsp;&nbsp;
