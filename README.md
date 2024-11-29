@@ -33,3 +33,13 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AdrianBR003&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </p>
 
+<section align="center">
+  
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AdrianBR003&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+</section>
+
+
+  <div align="right">
+    <img src="https://komarev.com/ghpvc/?username=AdrianBR003&label=Profile%20views&color=2d6ecf&style=flat"/>
+  </div>
+  
