@@ -36,9 +36,13 @@
 
 
 <section align="center">
-<p>[![AdrianBR003's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AdrianBR003&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)</p>
- <p>![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?AdrianBR003=ffflabs)</p>
+  
+[![AdrianBR003's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AdrianBR003&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+
 </section>
+
 
 
   <div align="right">
